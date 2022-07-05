@@ -28,7 +28,8 @@ fun main() {
 
     println("-----------------------")
 
-    values.sort(0,2)
+    // Sort para ordernar a lista
+    values.sort()
     for (valor in values){
         println(valor)
     }
