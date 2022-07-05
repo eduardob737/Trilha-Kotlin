@@ -1,2 +1,1 @@
-# DigiOneBank
-Software para aplicação dos conceitos de Orientação a Objetos em Kotlin / Curso DIO
+Projetos de estudos em Kotlin - Bootcamp DIO e Santander
