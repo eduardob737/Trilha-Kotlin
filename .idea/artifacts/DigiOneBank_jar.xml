@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="DigiOneBank:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DigiOneBank_jar</output-path>
+    <root id="root">
+      <element id="archive" name="DigiOneBank.jar">
+        <element id="module-output" name="DigiOneBank" />
+      </element>
+      <element id="library" level="project" name="KotlinJavaRuntime" />
+    </root>
+  </artifact>
+</component>
