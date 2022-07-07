@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d60e5416-ee51-487b-95b5-367955cc8162" name="Changes" comment="Arrumando projetos" />
+    <list default="true" id="d60e5416-ee51-487b-95b5-367955cc8162" name="Changes" comment="Arrumando projetos">
+      <change afterPath="$PROJECT_DIR$/../Api-Collections/src/main/kotlin/one/digitalinnovation/collections/TesteArrayString.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Api-Collections/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-Collections/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Api-Collections/target/classes/META-INF/consoleApp.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-Collections/target/classes/META-INF/consoleApp.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/digionebank/testes/TesteCliente.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/digionebank/testes/TesteCliente.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,10 +29,25 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Bd0F6cIbvKoF98qiqsSUrjyNDw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/edubarbosa/Documents/Kotlin/Trilha Kotlin/DigiOneBank",
+    "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -30,6 +55,21 @@
       <recent name="C:\Users\edubarbosa\Documents\Kotlin\Trilha Kotlin\DigiOneBank\DigiOneBank" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="TesteClienteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.digionebank.testes.TesteClienteKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.TesteClienteKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="Arrumando projetos">
       <created>1657048212857</created>
@@ -37,6 +77,13 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1657048212857</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d60e5416-ee51-487b-95b5-367955cc8162" name="Changes" comment="Arrumando projetos" />
+      <created>1657220548099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657220548099</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -59,6 +106,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/DigiOneBank" />
+    </ignored-roots>
     <MESSAGE value="Inserindo projeto completo" />
     <MESSAGE value="Arrumando projetos" />
     <option name="LAST_COMMIT_MESSAGE" value="Arrumando projetos" />
